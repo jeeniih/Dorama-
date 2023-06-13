@@ -1,1 +1,8 @@
-header{ background-color:#080D24;color: white;}
+header{
+     background-color:#080D24;
+     color: white;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     position: 24px 0;
+    }
