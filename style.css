@@ -17,7 +17,7 @@ body{
     }
 
 .cabecalho-imagem {
-     width: 20%;
+width: 20%;
 }
 
 .cabecalho-lista-item{
@@ -26,8 +26,12 @@ body{
      font-size: 24px;
 }
 
+.escola-imagem{
+     width: 25%;
+}
    
-.escola-imagem {
+
+.escola{
      background-image: linear-gradient(#383d58, #4ebfe9);
      color: white;
      display: flex;
@@ -66,6 +70,7 @@ width: 24px;
      background-color: black;
      text-align: center;
 }
+
 
 .rodape-imagem {
      min-height: 60px;
